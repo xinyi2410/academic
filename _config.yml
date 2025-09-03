@@ -25,11 +25,12 @@ author:
   avatar           : "profile.png"
   name             : "Xinyi Yang"
   pronouns         : "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
   location         : "Los Angeles"
   employer         : "UCLA"
-  uri              : # URL
   email            : "xinyi24@g.ucla.edu" 
+  bio              : # "Short biography for the left-hand sidebar"
+  uri              : # URL
+  
 
   # Academic websites
   academia         : # URL
