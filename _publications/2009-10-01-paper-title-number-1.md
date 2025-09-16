@@ -3,7 +3,6 @@ title: "Labor Disparities of Student Workers (2022)"
 collection: publications
 category: manuscripts
 permalink: https://docs.google.com/document/d/17g3cRlRaFW-gTdIpJ2lSTAny2mDIfOpFSUijCJd8pnQ/edit?usp=sharing
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 venue: 'Journal 1'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://docs.google.com/document/d/17g3cRlRaFW-gTdIpJ2lSTAny2mDIfOpFSUijCJd8pnQ/edit?usp=sharing)'
 ---
