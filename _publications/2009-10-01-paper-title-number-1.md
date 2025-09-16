@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Labor Disparities of Student Workers (2022)"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://docs.google.com/document/d/17g3cRlRaFW-gTdIpJ2lSTAny2mDIfOpFSUijCJd8pnQ/edit?usp=sharing
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://docs.google.com/document/d/17g3cRlRaFW-gTdIpJ2lSTAny2mDIfOpFSUijCJd8pnQ/edit?usp=sharing)'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+I researched on how student workers are exploited within their campus workplace environment and how it corresponds to the university’s responsibility. As academic workers across University of California schools strike for a fair contract against unfair labor practices, the student workers of minimum wage service jobs with more physical labor conditions, such as at food courts, bookstores, or transportation services, have the same sentiments but less competency to reach a fair bargain. The basis of understanding exploitation is gathered through Michael Yates’s Why Unions Matter on how “the most fundamental aspect of work is not controlled by us” because “employers try to organize their workplaces so that we cannot exert much control by our own actions” (p.8). After conducting an interview with a student worker from Boston College's bookstore, I proposed that student workers are exploited through the manipulation of their hours and physical well being because of the disparities in labor relations and the institutionalized structure of universities that perpetuates the extremities of stratification.
+
