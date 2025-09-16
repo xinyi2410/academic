@@ -2,7 +2,7 @@
 title: "Labor Disparities of Student Workers (2022)"
 collection: publications
 category: manuscripts
-permalink: https://docs.google.com/document/d/17g3cRlRaFW-gTdIpJ2lSTAny2mDIfOpFSUijCJd8pnQ/edit?usp=sharing
+permalink: /publication/2009-10-01-paper-title-number-1
 venue: 'Journal 1'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://docs.google.com/document/d/17g3cRlRaFW-gTdIpJ2lSTAny2mDIfOpFSUijCJd8pnQ/edit?usp=sharing)'
 ---
