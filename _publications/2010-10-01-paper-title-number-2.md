@@ -1,14 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "Haiti: Community Program Policy Report (2023)"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+I examined Haiti's persistent vulnerability to natural disasters through the interplay between environmental risks, political instability, and economic underdevelopment to propose policy solution on Municipal Civil Protection Committees (CCPC) under the World Bank. I introduced the cyclical nature of poverty and disaster susceptibility, where the geography and existing inequalities of Haiti exacerbate the impacts of natural disasters. This lead to significant recovery needs, particularly in the social sector, which short-term assistance provided by international organizations does not suffice. In extending supplies, reorganizing training camps, and providing alternative incentives to the CCPC, I emphasized the necessity for long-term institutional development and resilience through community engagement and resource investment aimed at enhancing disaster preparedness. I also identified political constraints, consequences, and other potential alternatives of the policy design before presenting evaluation and implementation methods of the CCPC intervention program. 
