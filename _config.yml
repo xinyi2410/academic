@@ -86,7 +86,7 @@ publication_category:
   manuscripts:
     title: 'Research and Policy Reports'    
   conferences:
-    title: 'Statistical Analysess'
+    title: 'Statistical Analyses'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
